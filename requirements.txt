@@ -1,0 +1,4 @@
+discord
+webhook
+pywin32
+requests
